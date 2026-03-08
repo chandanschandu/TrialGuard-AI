@@ -1,7 +1,7 @@
-# TrialGuard Voice
+# TrialGuard AI
 *Built for Healthcare AI Hackathon 2026*
 
-TrialGuard Voice is an AI-powered, voice-first clinical trial design assistant. It allows researchers to design trials, generate synthetic patient cohorts, and validate compliance using natural language voice commands.
+TrialGuard AI-powered, voice-first clinical trial design assistant. It allows researchers to design trials, generate synthetic patient cohorts, and validate compliance using natural language voice commands.
 
 ## 🚀 Features
 - **Voice-First Interface**: Hands-free lab operation with Whisper STT and ElevenLabs TTS.
@@ -15,3 +15,4 @@ TrialGuard Voice is an AI-powered, voice-first clinical trial design assistant. 
 - `design.md`: System architecture and process flows.
 - `requirements.txt`: Python dependencies.
 - `demo/`: Demo scripts and walkthrough guides.
+
